@@ -1,0 +1,41 @@
+{
+  "name": "fizzbuzz-enterprise",
+  "version": "1.0.0",
+  "description": "NPM port of fizzbuzz enterprise edition.",
+  "keywords": [
+    "Fizz",
+    "Buzz",
+    "FizzBuzz"
+  ],
+  "homepage": "https://github.com/enterprise-npm-ai/fizzbuzz-enterprise#readme",
+  "bugs": {
+    "url": "https://github.com/enterprise-npm-ai/fizzbuzz-enterprise/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enterprise-npm-ai/fizzbuzz-enterprise.git"
+  },
+  "license": "MIT",
+  "author": "tj-comimts",
+  "type": "commonjs",
+  "main": "source/main/Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@10xly/strict-equals": "^1.0.0",
+    "@rightpad/concat": "^1.0.0",
+    "add-two-numbers2": "^1.0.0",
+    "capitalize": "^2.0.4",
+    "construct-new": "^2.0.4",
+    "es-logical-and-operator": "^1.0.0",
+    "false-value": "^2.0.6",
+    "get-intrinsic": "^1.3.1",
+    "is-multiple-of": "^1.1.0",
+    "string-buzz": "^1.0.0",
+    "string-fizz": "^1.0.0",
+    "subtract": "^0.0.3",
+    "true-value": "^2.0.5",
+    "uncurry-x": "^1.0.1"
+  }
+}

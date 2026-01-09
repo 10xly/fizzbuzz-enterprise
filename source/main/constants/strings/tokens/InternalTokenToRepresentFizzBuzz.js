@@ -1,0 +1,1 @@
+module.exports = require("../../../../../source/main/constants/strings/output/FizzBuzz") // For simplicity, make the internal token to represent "FizzBuzz" the same as the actual string "FizzBuzz".
